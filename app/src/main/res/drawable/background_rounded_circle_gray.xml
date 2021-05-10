@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <!-- 円の設定をする -->
+        <shape android:shape="oval">
+            <!-- 背景色の設定をする -->
+            <solid android:color="#FF9B9B9B" />
+        </shape>
+    </item>
+</selector>
